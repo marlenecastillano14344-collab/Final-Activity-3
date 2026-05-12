@@ -3,7 +3,7 @@
 Message:
 <br>
 
-<textarea name="message">Hello po this is my PHP activity.</textarea>
+<textarea name="message">Hello this is my PHP activity.</textarea>
 
 <br><br>
 
